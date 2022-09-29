@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 1<br/><img src=/images/portfolio/'Residency.jpg' width='500' height='300'>"
+title: "Bachelor's degree senior project"
+excerpt: "<em>Instituto Tecnológico de Tijuana</em><br/>https://gitlab.com/Alex-Valenzuela/residency2022_av<br/><img src=/images/portfolio/'Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

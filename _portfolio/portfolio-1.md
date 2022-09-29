@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Data aShort description of portfolio item number 1<br/><img src='/images/portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
+title: "Data Analysis with Python"
+excerpt: "IBM certificate<br/>https://courses.cognitiveclass.ai/certificates/8a16c475fda443d79606cc5c8897d74f<br/><img src='/images/portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
