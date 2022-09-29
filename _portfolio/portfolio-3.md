@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='Python 101 for Data Science certificate Cognitive Class IBM.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='Residency.jpg'>"
 collection: portfolio
 ---
 
