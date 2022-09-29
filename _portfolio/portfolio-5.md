@@ -1,6 +1,6 @@
 ---
 title: "Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spread"
-excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='portfolio/Project-19.jpg' width='500' height='300'>"
+excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='Project-19.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

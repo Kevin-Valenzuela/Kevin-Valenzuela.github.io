@@ -1,6 +1,6 @@
 ---
-title: "Bachelor's degree senior project"
-excerpt: "<em>Instituto Tecnológico de Tijuana</em><br/><img src=/portfolio/'Residency.jpg' width='500' height='300'>"
+title: "Identification of potentials in electroencephalic signals, evoked through virtual experiences of movement."
+excerpt: "Senior project<br/><em>Instituto Tecnológico de Tijuana</em><br/><img src='Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
