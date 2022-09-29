@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis with Python"
-excerpt: "IBM certificate<br/>https://courses.cognitiveclass.ai/certificates/8a16c475fda443d79606cc5c8897d74f<br/><img src='/images/portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
+excerpt: "IBM certificate<br/><img src='/images/portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

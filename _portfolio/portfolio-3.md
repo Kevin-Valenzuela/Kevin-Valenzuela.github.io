@@ -1,6 +1,6 @@
 ---
 title: "Bachelor's degree senior project"
-excerpt: "<em>Instituto Tecnológico de Tijuana</em><br/>https://gitlab.com/Alex-Valenzuela/residency2022_av<br/><img src=/images/portfolio/'Residency.jpg' width='500' height='300'>"
+excerpt: "<em>Instituto Tecnológico de Tijuana</em><br/><img src=/images/portfolio/'Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
