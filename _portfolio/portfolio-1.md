@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis with Python"
-excerpt: "IBM certificate<br/><img src='/images/portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
+excerpt: "IBM certificate<br/><img src='portfolio/Data Analysis with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
