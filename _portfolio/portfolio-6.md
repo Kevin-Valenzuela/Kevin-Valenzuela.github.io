@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 6"
-excerpt: "Short description of portfolio item number 1<br/><img src='certificate-of-completion-for-curso-basico-de-solidworks.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='certificate-of-completion-for-curso-basico-de-solidworks.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
