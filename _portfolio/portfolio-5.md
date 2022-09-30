@@ -4,4 +4,5 @@ excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='Project-19.jpg
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.<br/>
+<a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">Project<a/>.

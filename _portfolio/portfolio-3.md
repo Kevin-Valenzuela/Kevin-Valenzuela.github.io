@@ -1,7 +1,8 @@
 ---
-title: "Identification of potentials in electroencephalic signals, evoked through virtual experiences of movement."
+title: "Identification of potentials in electroencephalicsignals, evoked through virtual experiences of movement."
 excerpt: "Senior project<br/><em>Instituto Tecnológico de Tijuana</em><br/><img src='Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+In this project I designed and develop and automatic method to detect evoked potentials using machine learning methods.<br/>
+<a href="https://gitlab.com/Alex-Valenzuela/residency2022_av">Project<a/>.
