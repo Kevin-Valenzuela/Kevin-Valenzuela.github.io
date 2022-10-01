@@ -8,8 +8,8 @@ date: 2018-02-08
 location: "Tijuana, MEX"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Developed and explained teaching material such as limits and derivates problems, and practical cases.
+<!--
 Heading 1
 ======
 
@@ -18,3 +18,4 @@ Heading 2
 
 Heading 3
 ======
+-->
