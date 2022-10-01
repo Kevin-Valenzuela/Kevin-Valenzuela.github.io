@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate course tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Calculus I"
 permalink: /teaching/2014-spring-teaching-1
 venue: "<em>Instituto Tecnológico de Tijuana</em>, Department of Electronical and Electrical Engineering"
 date: 2018-02-08
