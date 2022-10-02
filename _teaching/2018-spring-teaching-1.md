@@ -9,13 +9,3 @@ location: "Tijuana, MEX"
 ---
 
 Developed and explained teaching material such as limits and derivates problems, and practical cases.
-<!--
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
--->
