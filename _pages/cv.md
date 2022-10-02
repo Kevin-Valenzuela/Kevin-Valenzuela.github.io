@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering, <em>Instituto Tecnológico de Tijuana</em>, 2022
+* Bachelor's degree in Biomedical Engineering, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
 Research experience
 ======
 * Summer 2021: Research Assistant
   * University of California San Diego
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Peter Rose
 
 * Fall 2015 - : Research Assistant
-  * Github University
+  * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: M.S. Arturo Sotelo
 
 * Fall 2015 - : Research Assistant
-  * Github University
+  * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: M.Eng. Francisco García
+
 Skills
 ======
 * Skill 1
@@ -45,7 +45,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,7 +57,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
