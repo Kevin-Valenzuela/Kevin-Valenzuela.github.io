@@ -28,7 +28,8 @@ Research experience
 
 * Fall 2019: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included: Merging pull requests
+  * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked
+through virtual movement experiences.
   * Supervisor: M.Eng. Francisco García
 
 Skills
