@@ -1,6 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p><a href="http://yoursite.com/the.pdf">CV</a></p>
+    </embed>
+</object>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -56,21 +60,55 @@ Certifications
 * University of San Diego
   * November 2018: Gel Electrophoresis/Crime Scene Investigation Workshop
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Skills
+======
+* Programming:
+  * Python
+  * R
+  * MATLAB
+  * SQL
+  * C++
+  * C
+  * Java
+  * JavaScript
+  * HTML
+  * CSS
+  * PHP
+  * Assembly language
+* Laboratory techniques
+  * Bacterial culture
+  * Cell harvest
+  * Cell count
+  * Pipetting
+  * Weighing
+  * Sterilizing
+  * Cleaning Glassware
+  * Preparing media
+  * Practicing sterile techniques
+  * Agarose Electrophoresis
+  * In vitro experiments
+* Laboratory equipment
+  * Incubator
+  * Volumetric glassware
+  * Centrifuges
+  * Vortex mixer
+  * Precision balance
+  * Stirring hot plate
+  * Micropipette
+  * Autoclave
+  * High Accuracy Digital Thermometer
+  * PCR machines
+  * pH meter
+  * Spectrophotometer
+  * Oscilloscope
+  * Multimeter
+  * Signal Generator
 <!--
 Publications
 ======
@@ -83,9 +121,10 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
--->  
+
 
 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->  
