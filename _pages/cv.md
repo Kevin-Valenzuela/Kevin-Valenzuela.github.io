@@ -17,19 +17,17 @@ Research experience
 ======
 * Summer 2021: Research Assistant
   * University of California San Diego
-  * Duties included: Tagging issues
+  * Duties included: <ul><li>Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.</li><li>Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.</li></ul>
   * Supervisor: Dr. Peter Rose
 
 * Spring 2020 - Spring 2022: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included: <ul><li>Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and
-  phylogenetic ambit.</li><li>Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.</li></ul>
+  * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked through virtual movement experiences.
   * Supervisor: M.S. Arturo Sotelo
 
 * Fall 2019: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked
-through virtual movement experiences.
+  * Duties included:<ul><li>Synthetized and tested the permeability of graphene membranes for water filter purposes.</li><li>Cultivate and determined the type of bacteria in contaminated and clean cell cultures.</li></ul>
   * Supervisor: M.Eng. Francisco García
 
 Skills
