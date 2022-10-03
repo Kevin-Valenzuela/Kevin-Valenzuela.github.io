@@ -47,8 +47,8 @@ Synergistic activities
 Certifications
 ======
 * IBM
-  * September 2022: Python for Data Analysis
-  * September 2022: Python 101 for Data Science
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-1/'>Python for Data Analysis</a>
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-2/'>Python 101 for Data Science</a>
 
 * Intellegy
   * May 2021: <em>Curso básico de SOLIDWORKS</em>
