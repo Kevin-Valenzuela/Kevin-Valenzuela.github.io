@@ -17,7 +17,9 @@ Research experience
 ======
 * Summer 2021: Research Assistant
   * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>University of California San Diego Jacobs School of Engineering<a/>
-  * Duties included: <ul><li>Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.</li><li>Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.</li></ul>
+  * Duties included:
+    * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
+    * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
   * Supervisor: Dr. Peter Rose
 
 * Spring 2020 - Spring 2022: Research Assistant
@@ -27,7 +29,9 @@ Research experience
 
 * Fall 2019: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included:<ul><li>Synthetized and tested the permeability of graphene membranes for water filter purposes.</li><li>Cultivate and determined the type of bacteria in contaminated and clean cell cultures.</li></ul>
+  * Duties included:
+    * Synthetized and tested the permeability of graphene membranes for water filter purposes.
+    * Cultivate and determined the type of bacteria in contaminated and clean cell cultures.
   * Supervisor: M.Eng. Francisco García
 
 Synergistic activities
@@ -35,7 +39,10 @@ Synergistic activities
 * June 2021: Security and custody
   * <em>Universidad Autónoma de Baja California</em>
   * Event: Day of Early Detection of Cardiac Pathologies in Athletes
-  * Duties included: <ul><li>Analyzed the statistics of young athletes who may suffer cardiac arrest.</li><li>Administered and conditioned checked medical equipment.</li><li>Educated young athletes on how to perform CPR.</li></ul>
+  * Duties included:
+    * Analyzed the statistics of young athletes who may suffer cardiac arrest.
+    * Administered and conditioned checked medical equipment.
+    * Educated young athletes on how to perform CPR.
 
 Certifications
 ======
@@ -48,9 +55,6 @@ Certifications
 
 * University of San Diego
   * November 2018: Gel Electrophoresis/Crime Scene Investigation Workshop
-
-Teaching Experience
-======
 
 Skills
 ======
@@ -74,7 +78,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->  
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
