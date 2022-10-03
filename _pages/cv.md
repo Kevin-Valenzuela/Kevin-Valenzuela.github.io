@@ -20,12 +20,13 @@ Research experience
   * Duties included: Tagging issues
   * Supervisor: Dr. Peter Rose
 
-* Fall 2015 - : Research Assistant
+* Spring 2020 - Spring 2022: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included: Merging pull requests
+  * Duties included: <ul><li>Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and
+  phylogenetic ambit.</li><li>Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.</li></ul>
   * Supervisor: M.S. Arturo Sotelo
 
-* Fall 2015 - : Research Assistant
+* Fall 2019: Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included: Merging pull requests
   * Supervisor: M.Eng. Francisco García
