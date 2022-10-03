@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor's degree in Biomedical Engineering, <em>Instituto Tecnológico de Tijuana</em>, 2022
+* Bachelor's degree in Biomedical Engineering with specialty in Applied Biomedical Technologies, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
 Research experience
 ======
