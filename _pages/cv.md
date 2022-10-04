@@ -15,8 +15,8 @@ Education
 
 Research experience
 ======
-* Summer 2021: Research Assistant
-  * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>University of California San Diego Jacobs School of Engineering<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
+  * University of California San Diego Jacobs School of Engineering
   * Duties included:
     * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
     * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
@@ -51,10 +51,10 @@ Certifications
   * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-2/'>Python 101 for Data Science</a>
 
 * Intellegy
-  * May 2021: <em>Curso básico de SOLIDWORKS</em>
+  * May 2021: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-6/'><em>Curso básico de SOLIDWORKS</em></a>
 
 * University of San Diego
-  * November 2018: Gel Electrophoresis/Crime Scene Investigation Workshop
+  * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-7/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
 
 Teaching Experience
 ======
