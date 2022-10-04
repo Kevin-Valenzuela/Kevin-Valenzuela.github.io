@@ -1,5 +1,5 @@
 ---
-title: "ENLACE 2021 participation certificate"
+title: "ENLACE 2021 participation"
 excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='ENLACE2021_Certificate_KevinValenzuela.jpg' width='500' height='300'>"
 collection: portfolio
 ---
