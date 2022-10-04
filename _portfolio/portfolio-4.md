@@ -4,4 +4,4 @@ excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='ENLACE2021_Cer
 collection: portfolio
 ---
 
-I participated in the summer research experience ENLACE 2021 were I was able to work with doctoral researches in a remote manner to perform a <a href="">analysis of COVID-19 spread<a/>.
+I participated in the summer research experience ENLACE 2021 were I was able to work with doctoral researches in a remote manner to perform a <a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">analysis of COVID-19 spread<a/>.
