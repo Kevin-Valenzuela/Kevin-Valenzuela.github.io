@@ -22,7 +22,7 @@ Research experience
     * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
   * Supervisor: Dr. Peter Rose
 
-* Spring 2020 - Spring 2022: Research Assistant
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-3/'>Spring 2020 - Spring 2022: Research Assistant<a/>
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked through virtual movement experiences.
   * Supervisor: M.S. Arturo Sotelo
