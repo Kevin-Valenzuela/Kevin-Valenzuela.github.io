@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+title: "<!-- object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
         <p><a href="http://yoursite.com/the.pdf">CV</a></p>
     </embed>
-</object>"
+</object-->CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -65,7 +65,7 @@ Teaching Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--
+
 Skills
 ======
 * Programming:
@@ -109,7 +109,7 @@ Skills
   * Oscilloscope
   * Multimeter
   * Signal Generator
--->
+
 <!--
 Publications
 ======
