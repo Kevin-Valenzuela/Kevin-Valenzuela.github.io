@@ -1,10 +1,6 @@
 ---
 layout: archive
-title: "<!-- object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p><a href="http://yoursite.com/the.pdf">CV</a></p>
-    </embed>
-</object-->CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
