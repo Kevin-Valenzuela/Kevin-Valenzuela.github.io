@@ -65,7 +65,7 @@ Teaching Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<!--
 Skills
 ======
 * Programming:
@@ -109,6 +109,7 @@ Skills
   * Oscilloscope
   * Multimeter
   * Signal Generator
+-->
 <!--
 Publications
 ======
