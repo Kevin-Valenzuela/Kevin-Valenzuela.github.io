@@ -4,5 +4,5 @@ excerpt: "IBM certificate<br/><img src='Machine Learning with Python.jpg' width=
 collection: portfolio
 ---
 
-This course show me the principles of the machine learning, and teach me how to use diverse machine methods for regression (simple linear, multiple linear and non-linear), classification (KNN, Decision trees, logistic regression and SVM) and clustering (K-means, Hierarchical and DBSCAN). <br/>
+This course show me the principles of the machine learning. Likewise it also teach me diverse methods for regression (simple linear, multiple linear and non-linear), classification (KNN, Decision trees, logistic regression and SVM) and clustering (K-means, Hierarchical and DBSCAN).<br/>
 <a href="https://courses.cognitiveclass.ai/certificates/ec6baa563a164a86aca95ca39ea79479">Certificate<a/>.
