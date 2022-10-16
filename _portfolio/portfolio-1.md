@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis with Python"
+title: "Machine Learning with with Python"
 excerpt: "IBM certificate<br/><img src='Machine Learning with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
