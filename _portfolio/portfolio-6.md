@@ -1,7 +1,8 @@
 ---
-title: "<em>Curso básico de SOLIDWORKS<em/>"
-excerpt: "Certificate of completion of basic SOLIDWORKS course<br/><img src='certificate-of-completion-for-curso-basico-de-solidworks.jpg' width='500' height='300'>"
+title: "Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spread"
+excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='Project-19.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-This certificates shows the satisfactory conclusion of a SOLIDWORKS basics course.
+In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.<br/>
+<a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">Project<a/>.

@@ -1,8 +1,7 @@
 ---
-title: "Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spread"
-excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='Project-19.jpg' width='500' height='300'>"
+title: "ENLACE 2021 participation"
+excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='ENLACE2021_Certificate_KevinValenzuela.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.<br/>
-<a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">Project<a/>.
+I participated in the summer research experience ENLACE 2021 were I was able to work with doctoral researches in a remote manner to perform a <a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">analysis of COVID-19 spread<a/>.

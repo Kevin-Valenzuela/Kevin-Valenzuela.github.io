@@ -1,8 +1,8 @@
 ---
 title: "Data Analysis with Python"
-excerpt: "IBM certificate<br/><img src='Data Analysis with Python.jpg' width='500' height='300'>"
+excerpt: "IBM certificate<br/><img src='Machine Learning with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-This course offer me the principles of the data analysis, for example some techniques as the analysis of variance (ANOVA), descriptive statistics, GroupBy, correlation, etc. It also introducted me to machine learning. <br/>
-<a href="https://courses.cognitiveclass.ai/certificates/8a16c475fda443d79606cc5c8897d74f">Certificate<a/>.
+This course show me the principles of the machine learning, and teach me how to use diverse machine methods for regression (simple linear, multiple linear and non-linear), classification (KNN, Decision trees, logistic regression and SVM) and clustering (K-means, Hierarchical and DBSCAN). <br/>
+<a href="https://courses.cognitiveclass.ai/certificates/ec6baa563a164a86aca95ca39ea79479">Certificate<a/>.

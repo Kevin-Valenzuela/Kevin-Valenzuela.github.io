@@ -1,7 +1,7 @@
 ---
-title: "Gel Electrophoresis/Crime Scene Investigation Workshop"
-excerpt: "University of San Diego<br/><img src='Electrophoresis workshop.jpg' width='500' height='300'>"
+title: "<em>Curso básico de SOLIDWORKS<em/>"
+excerpt: "Certificate of completion of basic SOLIDWORKS course<br/><img src='certificate-of-completion-for-curso-basico-de-solidworks.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-This certificates shows the attendance to a gel electrophoresis 3 hour training workshop.
+This certificates shows the satisfactory conclusion of a SOLIDWORKS basics course.

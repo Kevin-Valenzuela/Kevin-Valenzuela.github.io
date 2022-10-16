@@ -1,7 +1,8 @@
 ---
-title: "ENLACE 2021 participation"
-excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='ENLACE2021_Certificate_KevinValenzuela.jpg' width='500' height='300'>"
+title: "Identification of potentials in electroencephalicsignals, evoked through virtual experiences of movement."
+excerpt: "Senior project<br/><em>Instituto Tecnológico de Tijuana</em><br/><img src='Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-I participated in the summer research experience ENLACE 2021 were I was able to work with doctoral researches in a remote manner to perform a <a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">analysis of COVID-19 spread<a/>.
+In this project I designed and develop and automatic method to detect evoked potentials using machine learning methods.<br/>
+<a href="https://gitlab.com/Alex-Valenzuela/residency2022_av">Project<a/>.
