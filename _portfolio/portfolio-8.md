@@ -4,5 +4,5 @@ excerpt: "University of San Diego<br/><img src='Electrophoresis workshop.jpg' wi
 collection: portfolio
 ---
 
-<img src='Electrophoresis workshop.jpg' width='500' height='300'>
+<img src="Electrophoresis workshop.jpg" width="500" height="300">
 This certificates shows the attendance to a gel electrophoresis 3 hour training workshop.
