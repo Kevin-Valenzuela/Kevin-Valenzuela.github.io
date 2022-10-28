@@ -4,5 +4,6 @@ excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='../assets/imag
 collection: portfolio
 ---
 
-In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.<br/>
+In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.
+
 <a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">![Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spreade](/assets/images/Project-19.jpg)<a/>

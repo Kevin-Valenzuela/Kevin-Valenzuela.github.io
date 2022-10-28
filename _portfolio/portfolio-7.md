@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 This certificates shows the satisfactory conclusion of a SOLIDWORKS basics course.
+
 ![SOLIDWORKS basics course certificate](/assets/images/certificate-of-completion-for-curso-basico-de-solidworks.jpg)
