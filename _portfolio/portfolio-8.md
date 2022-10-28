@@ -7,4 +7,4 @@ collection: portfolio
 
 
 This certificates shows the attendance to a gel electrophoresis 3 hour training workshop.
-![Gel Electrophoresis/Crime Scene Investigation Workshop certificate][{{https://kevin-valenzuela.github.io/}}/assets/Electrophoresis workshop.jpg]
+![Gel Electrophoresis/Crime Scene Investigation Workshop certificate][{{https://kevin-valenzuela.github.io/}}/assets/Electrophoresis workshop.JPG]
