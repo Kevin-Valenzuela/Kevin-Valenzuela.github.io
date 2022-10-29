@@ -15,14 +15,14 @@ Education
 
 Research experience
 ======
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>Summer 2021: Research Assistant<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
   * University of California San Diego Jacobs School of Engineering
   * Duties included:
     * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
     * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
   * Supervisor: Dr. Peter Rose
 
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Spring 2020 - Spring 2022: Research Assistant<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>Spring 2020 - Spring 2022: Research Assistant<a/>
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked through virtual movement experiences.
   * Supervisor: M.S. Arturo Sotelo
@@ -47,15 +47,15 @@ Synergistic activities
 Certifications
 ======
 * IBM
-  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-1/'>Machine Learning with Python</a>
-  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-2/'>Python for Data Analysis</a>
-  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-3/'>Python 101 for Data Science</a>
+  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-8/'>Machine Learning with Python</a>
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-7/'>Python for Data Analysis</a>
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-6/'>Python 101 for Data Science</a>
 
 * Intellegy
-  * May 2021: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-7/'><em>Curso básico de SOLIDWORKS</em></a>
+  * May 2021: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-2/'><em>Curso básico de SOLIDWORKS</em></a>
 
 * University of San Diego
-  * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-8/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
+  * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-1/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
 
 Teaching Experience
 ======

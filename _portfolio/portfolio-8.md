@@ -1,9 +1,9 @@
 ---
-title: "Gel Electrophoresis/Crime Scene Investigation Workshop"
-excerpt: "University of San Diego<br/><img src='../assets/images/Electrophoresis workshop.jpg' width='500' height='300'>"
+title: "Machine Learning with with Python"
+excerpt: "IBM certificate<br/><img src='../assets/images/Machine Learning with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-This certificates shows the attendance to a gel electrophoresis 3 hour training workshop.
+This course show me the principles of the machine learning. Likewise it also teach me diverse methods for regression (simple linear, multiple linear and non-linear), classification (KNN, Decision trees, logistic regression and SVM) and clustering (K-means, Hierarchical and DBSCAN).
 
-![Gel Electrophoresis/Crime Scene Investigation Workshop certificate](/assets/images/Electrophoresis workshop.jpg)
+<a href="https://courses.cognitiveclass.ai/certificates/ec6baa563a164a86aca95ca39ea79479">![Machine Learning with with Python certificate](/assets/images/Machine Learning with Python.jpg)<a/>

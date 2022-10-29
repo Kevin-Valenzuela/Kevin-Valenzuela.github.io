@@ -1,9 +1,9 @@
 ---
-title: "Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spread"
-excerpt: "UC San Diego Jacobs School of Engineering<br/><img src='../assets/images/Project-19.jpg' width='500' height='300'>"
+title: "Python 101 for Data Science"
+excerpt: "IBM certificate <br/><img src='../assets/images/Python 101 for Data Science certificate Cognitive Class IBM.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-In this project a data analysis was perform in different aspects of the COVID-19 spread, some of them included analyzing the correlation of diverse variables in the demographic aspect and the rate of cases or deaths.
+This course offer me the basics of the Python programming language will also give an introduction to data analysis.
 
-<a href="https://github.com/Kevin-Valenzuela/enlace2021_kv">![Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spreade](/assets/images/Project-19.jpg)<a/>
+<a href="https://courses.cognitiveclass.ai/certificates/ada993efa3e0433eae2c0ee593703f13">![Python 101 for Data Science certificate](/assets/images/Python 101 for Data Science certificate Cognitive Class IBM.jpg)<a/>
