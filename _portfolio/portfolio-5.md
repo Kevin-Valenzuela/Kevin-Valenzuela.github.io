@@ -1,6 +1,6 @@
 ---
 title: "Identification of potentials in electroencephalicsignals, evoked through virtual experiences of movement."
-excerpt: "Senior project<br/><em>Instituto Tecnológico de Tijuana</em><br/><img src='../assets/images/Residency.jpg' width='500' height='300'>"
+excerpt: "<em>Instituto Tecnológico de Tijuana</em>, Senior project, 2021<br/><img src='../assets/images/Residency.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

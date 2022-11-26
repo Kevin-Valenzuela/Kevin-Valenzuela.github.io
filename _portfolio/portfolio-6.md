@@ -1,6 +1,6 @@
 ---
 title: "Python 101 for Data Science"
-excerpt: "IBM certificate <br/><img src='../assets/images/Python 101 for Data Science certificate Cognitive Class IBM.jpg' width='500' height='300'>"
+excerpt: "IBM, Course certification in Python, 2022<br/><img src='../assets/images/Python 101 for Data Science certificate Cognitive Class IBM.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

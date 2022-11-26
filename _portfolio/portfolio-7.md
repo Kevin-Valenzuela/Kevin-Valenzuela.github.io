@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis with Python"
-excerpt: "IBM certificate<br/><img src='../assets/images/Data Analysis with Python.jpg' width='500' height='300'>"
+excerpt: "IBM, Course certification in Data Analysis with Python, 2022<br/><img src='../assets/images/Data Analysis with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
-  * University of California San Diego Jacobs School of Engineering
+  * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
     * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
     * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.

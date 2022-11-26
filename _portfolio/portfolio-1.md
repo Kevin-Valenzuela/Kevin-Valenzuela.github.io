@@ -1,6 +1,6 @@
 ---
 title: "Gel Electrophoresis/Crime Scene Investigation Workshop"
-excerpt: "University of San Diego<br/><img src='../assets/images/Electrophoresis workshop.jpg' width='500' height='300'>"
+excerpt: "University of San Diego, Certificate of gel electrophoresis training, 2018<br/><img src='../assets/images/Electrophoresis workshop.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

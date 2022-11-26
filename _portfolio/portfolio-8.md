@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning with with Python"
-excerpt: "IBM certificate<br/><img src='../assets/images/Machine Learning with Python.jpg' width='500' height='300'>"
+excerpt: "IBM, Course certification in Machine Learning with Python, 2022<br/><img src='../assets/images/Machine Learning with Python.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
