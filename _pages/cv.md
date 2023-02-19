@@ -15,6 +15,10 @@ Education
 
 Research experience
 ======
+* January 2023 - Present: Research and Development Engineer
+  * University of California San Diego, Systems Biology Research Group
+  * Supervisor: Dr. Adam Feist
+
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
