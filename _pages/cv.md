@@ -18,7 +18,7 @@ Work experience
 * January 2023 - Current: Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
-    * Conducted adaptive experiments to improve phenotypes of strains using Tecan liquid handing platforms.
+    * Conducted adaptive experiments to improve phenotypes of strains using Tecan liquid handing platforms. 
     * Programed a real-time data visualization interface system to monitor in progress experiments using JavaScript and SQL.
     * Developed liquid handling system to perform adaptive experiments.
   * Supervisor: Dr. Adam Feist
