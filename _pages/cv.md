@@ -13,12 +13,19 @@ Education
 ======
 * Bachelor's degree in Biomedical Engineering with specialty in Applied Biomedical Technologies, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
-Research experience
+Work experience
 ======
-* January 2023 - Present: Research and Development Engineer
+* January 2023 - Current: Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
+  * Duties included:
+    * Conducted adaptive experiments to improve phenotypes of strains using Tecan liquid handing platforms.
+    * Programed a real-time data visualization interface system to monitor in progress experiments using JavaScript and SQL.
+    * Developed liquid handling system to perform adaptive experiments.
   * Supervisor: Dr. Adam Feist
 
+
+Research experience
+======
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
@@ -82,17 +89,23 @@ Skills
   * CSS
   * PHP
   * Assembly language
+
 * Laboratory techniques
   * Bacterial culture
   * Cell harvest
   * Cell count
+  * Inoculation
+  * Clonal isolation
+  * Replica plating
+  * Preservation of cell lines
   * Pipetting
   * Weighing
   * Sterilizing
-  * Cleaning Glassware
+  * Filtrating
+  * Washing/Cleaning Glassware
   * Preparing media
   * Practicing sterile techniques
-  * Agarose Electrophoresis
+  * Agarose Gel Electrophoresis
   * In vitro experiments
 * Laboratory equipment
   * Incubator
@@ -101,15 +114,25 @@ Skills
   * Vortex mixer
   * Precision balance
   * Stirring hot plate
+  * Vortex mixer
   * Micropipette
+  * Pipettes
   * Autoclave
   * High Accuracy Digital Thermometer
   * PCR machines
   * pH meter
   * Spectrophotometer
+  * Plate reader spectrophotometer
+  * Mult
   * Oscilloscope
   * Multimeter
   * Signal Generator
+  * Lab Glassware
+  * Biosafety Cabinet
+  * Fume hood
+  * Liquid handling platforms (Tecan: Evo and Fluent)
+
+
 
 <!--
 Publications
