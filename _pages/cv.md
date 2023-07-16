@@ -18,15 +18,14 @@ Work experience
 * January 2023 - Current: Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
-    * Conducted adaptive experiments to improve phenotypes of strains using Tecan liquid handing platforms.
-    * Programed a real-time data visualization interface system to monitor in progress experiments using JavaScript and SQL.
-    * Developed liquid handling system to perform adaptive experiments.
+    * Designed and conducted automated adaptive experiments to improve growth of strains using Tecan liquid handing platforms.
+    * Programed a real-time experiment data visualization interface system using JavaScript and SQL.
+    * Developed liquid handling system driver using Python.
   * Supervisor: Dr. Adam Feist
-
 
 Research experience
 ======
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant Intern<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
     * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
@@ -97,46 +96,53 @@ Skills
   * Assembly language
 
 * Laboratory techniques
-  * Bacterial culture
-  * Cell harvest
-  * Cell count
-  * Inoculation
-  * Clonal isolation
-  * Replica plating
-  * Preservation of cell lines
-  * Pipetting
-  * Weighing
-  * Sterilizing
-  * Filtrating
-  * Washing/Cleaning Glassware
-  * Preparing media
-  * Practicing sterile techniques
   * Agarose Gel Electrophoresis
+  * Bacterial culture
+  * Cell count
+  * Cell harvest
+  * Cleaning Glassware
+  * Clonal isolation
+  * Column chromatography
+  * Cryopreservation
+  * Filtrating
+  * Gel Electrophoresis
+  * Glucose assays
   * In vitro experiments
+  * Inoculation
+  * PCR
+  * Pipetting
+  * Practicing sterile techniques
+  * Preparing media
+  * Preservation of cell lines
+  * Replica plating
+  * Sterilizing
+  * Weighing
+
 * Laboratory equipment
-  * Incubator
-  * Volumetric glassware
-  * Centrifuges
-  * Vortex mixer
-  * Precision balance
-  * Stirring hot plate
-  * Vortex mixer
-  * Micropipette
-  * Pipettes
   * Autoclave
+  * Biosafety Cabinet
+  * Centrifuges
+  * Fume hood
   * High Accuracy Digital Thermometer
+  * Incubator
+  * Lab Glassware
+  * Liquid handling platforms (Tecan: Evo and Fluent)
+  * Micropipette
+  * Microscope
+  * Multimeter
+  * Oscilloscope
   * PCR machines
   * pH meter
-  * Spectrophotometer
+  * Pipettes
   * Plate reader spectrophotometer
-  * Mult
-  * Oscilloscope
-  * Multimeter
+  * Precision balance
   * Signal Generator
-  * Lab Glassware
-  * Biosafety Cabinet
-  * Fume hood
-  * Liquid handling platforms (Tecan: Evo and Fluent)
+  * Spectrophotometer
+  * Stirring hot plate
+  * Thermocycler
+  * Volumetric glassware
+  * Vortex mixer
+
 
 
 
