@@ -15,29 +15,37 @@ Education
 
 Work experience
 ======
-* January 2023 - Current: Research and Development Engineer
+* January 2023 – Present (8 months): Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
-    * Designed and conducted automated adaptive experiments to improve growth and tolerace of strains in specific environments using Tecan liquid handing platforms (EVO and Fluent).
+    *	Designed and conducted automated adaptive experiments to improve growth and tolerance of strains in specific environments using Tecan liquid handing platforms (EVO and Fluent).
     * Programed a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap and SQL.
-    * Determined and solved contamination issues by performing sterility tests, PCR and gel electropheris runs, and changing protocols used on experiments.
+    * Determined and solved contamination issues by performing sterility tests, PCR and gel electrophoresis runs, and changing protocols used on experiments.
+    * Trained and supervised undergraduates to assist in experiments.
   * Supervisor: Dr. Adam Feist
 
 Research experience
 ======
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>Summer 2021: Research Assistant Intern<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>June 2021 - August 2021 (3 Months) : Research Assistant Intern<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
     * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
     * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
+    * Presented research results of the COVID-19 spread in Mexico analyses.
+    * Taught and coordinated high school students, undergraduates and graduates to program using Python in data analysis.
   * Supervisor: Dr. Peter Rose
 
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>Spring 2020 - Spring 2022: Research Assistant<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>January 2020 – June 2022 (2 years 3 months): Research Assistant<a/>
   * <em>Instituto Tecnológico de Tijuana</em>
-  * Duties included: Analyzed electroencephalographic signals for the development of an automatic method to identify potentials, evoked through virtual movement experiences.
+  * Duties included:
+    * Analyzed brain signals for the identification of evoked potentials using machine learning methods using Python.
+    *	Designed an algorithm in Python for the detection of motor-related events on brain signals for the development of prosthetics based on brain-computer interfaces.
+    *	Documented a protocol to follow for the detection of events in brain signals for prosthetic design.
+    *	Reviewed and tested previous works related to evoked potentials in brain signals.
+
   * Supervisor: M.S. Arturo Sotelo
 
-* Fall 2019: Research Assistant
+* August 2019 - December 2019 (5 months): Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included:
     * Synthetized and tested the permeability of graphene membranes for water filter purposes.
