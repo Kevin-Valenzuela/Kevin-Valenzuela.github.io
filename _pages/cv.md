@@ -85,6 +85,8 @@ Skills
   * Python
   * R
   * MATLAB
+  * FluentControl
+  * EvoWare
   * SQL
   * C++
   * C
