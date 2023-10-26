@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Prospect"
   location         : "San Diego, CA"
-  employer         : UCSD, Systems Biology Research Group
+  employer         : #UCSD, Systems Biology Research Group
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "eng.alexvalenzuela@outlook.com"
