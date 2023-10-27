@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kevin A. Valenzuela"
 title_separator          : "-"
-name                     : &name "Kevin Valenzuela"
+name                     : &name "Kevin A. Valenzuela"
 description              : &description "Biomedical engineer"
 url                      : https://Kevin-Valenzuela.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
