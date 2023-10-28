@@ -18,10 +18,13 @@ Work experience
 * January - September 2023  (9 months): Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
-    *	Designed and conducted automated adaptive experiments to improve growth and tolerance of strains in specific environments using Tecan liquid handing platforms (EVO and Fluent).
-    * Programed a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap and SQL.
-    * Determined and solved contamination issues by performing sterility tests, PCR and gel electrophoresis runs, and changing protocols used on experiments.
+    *	Designed and conducted automated bacterial and viral adaptive evolution experiments to improve growth and tolerance in specific environments using Tecan liquid handing platforms (EVO and Fluent).
+    * Collaborated and develop with a team of R&D engineers a specialized liquid handling platform to perform automated adaptive evolution experiments using SOLIDWORKS, Python, and Polyscope.
+    * Programed and develop a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap, and SQL.
+    * Determined and solved biocontamination issues by performing sterility tests, PCR and gel electrophoresis runs, and changing protocols and FluentControl scripts used on experiments.
     * Trained and supervised undergraduates to assist in experiments.
+    * Analyzed and documented resulting data from evolution experiments on the automated platform.
+    * Operated and maintained Tecan liquid handling platforms.
   * Supervisor: Dr. Adam Feist
 
 Research experience
