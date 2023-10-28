@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'IN PROGRESS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Kevin A. Valenzuela, Arturo Sotelo. (20XX). &quot;Identification of potentials in electroencephalicsignals, evoked by virtual experiences of movement.&quot; <i>IN PROGRESS</i>. 1(1).'
 ---
