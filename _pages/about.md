@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research & Development Engineer at the Systems Biology Research Group at University of California San Diego (UCSD). I earned my Bachelor's degree in Biomedical Engineering in June 2022 at <em>Instituto Tecnológico de Tijuana</em>.
+I am a prospective Ph.D. candidate. I earned my Bachelor's degree in Biomedical Engineering in June 2022 at <em>Instituto Tecnológico de Tijuana</em>.
 
 <!--My research interests are focus on synthetic and systems biology approaches to create medical treatments.-->
