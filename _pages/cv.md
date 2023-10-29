@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* January - September 2023  (9 months): Research and Development Engineer
+* January 2023 - September 2023  (9 months): Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
     *	Designed and conducted automated bacterial and viral adaptive evolution experiments to improve growth and tolerance in specific environments using Tecan liquid handing platforms (EVO and Fluent).
