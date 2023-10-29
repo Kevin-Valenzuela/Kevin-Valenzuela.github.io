@@ -45,7 +45,6 @@ Research experience
     *	Designed an algorithm in Python for the detection of motor-related events on brain signals for the development of prosthetics based on brain-computer interfaces.
     *	Documented a protocol to follow for the detection of events in brain signals for prosthetic design.
     *	Reviewed and tested previous works related to evoked potentials in brain signals.
-
   * Supervisor: M.S. Arturo Sotelo
 
 * August 2019 - December 2019 (5 months): Research Assistant
@@ -162,7 +161,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!--
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -170,7 +169,7 @@ Talks
   {% endfor %}</ul>
 
 
-
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
