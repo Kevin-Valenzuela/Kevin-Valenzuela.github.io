@@ -1,5 +1,5 @@
 ---
-title: "Identification of potentials in electroencephalicsignals, evoked by virtual experiences of movement."
+title: "Identification of potentials in electroencephalic signals, evoked by virtual experiences of movement."
 collection: publications
 permalink: /publication/2023-00-00-paper-title-number-1
 excerpt: 'This paper is about the use of deep learning methods for the detection of potentials in electroencephalography signals, evoked by virtual experiences of movement.'
