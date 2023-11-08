@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate course tutor"
+title: "teaching Assistant"
 collection: teaching
 type: "Differential Calculus"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,4 +8,4 @@ date: 2018-02-08
 location: "Tijuana, MEX"
 ---
 
-Developed and explained teaching material such as limits and derivates problems, and practical cases.
+Developed and explained course material such as limits and derivates problems, and practical cases.

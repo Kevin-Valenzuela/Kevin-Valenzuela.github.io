@@ -51,7 +51,7 @@ Research experience
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included:
     * Synthetized and tested the permeability of graphene membranes for water filter purposes.
-    * Cultivate and determined the type of bacteria in contaminated and clean cell cultures.
+    * Determined bacteria types in contaminated and clean cell cultures.
   * Supervisor: M.Eng. Francisco García
 
 Synergistic activities
@@ -129,6 +129,7 @@ Skills
   * Filtrating
   * Gel Electrophoresis
   * Glucose assays
+  * High-performance liquid chromatography (HPLC)
   * In vitro experiments
   * Inoculation
   * PCR
