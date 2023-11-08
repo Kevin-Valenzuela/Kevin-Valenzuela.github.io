@@ -1,5 +1,5 @@
 ---
-title: "teaching Assistant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Differential Calculus"
 permalink: /teaching/2014-spring-teaching-1
