@@ -71,6 +71,7 @@ Certifications
   * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-9/'>Biology Meets Programming: Bioinformatics for Beginners</a>
 
 * IBM
+  * January 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-10/'>Deep Learning with Tensorflow</a>
   * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-8/'>Machine Learning with Python</a>
   * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-7/'>Python for Data Analysis</a>
   * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-6/'>Python 101 for Data Science</a>
@@ -101,70 +102,20 @@ Talks
 
 Skills
 ======
-* Programming:
-  * Python
-  * R
-  * MATLAB
-  * FluentControl
-  * EvoWare
-  * SQL
-  * C++
-  * C
-  * Java
-  * JavaScript
-  * HTML
-  * CSS
-  * PHP
-  * Assembly language
+* Technical:
+  Circuit design and analysis (electronic, analog, power, and digital), measurement of mechanical properties (tensile, compression, bending, hardness, creep, and impact test), thermal analysis of materials, signal analysis, and network design.
 
-* Laboratory techniques
-  * Agarose Gel Electrophoresis
-  * Bacterial culture
-  * Cell count
-  * Cell harvest
-  * Cleaning Glassware
-  * Clonal isolation
-  * Column chromatography
-  * Cryopreservation
-  * Filtrating
-  * Gel Electrophoresis
-  * Glucose assays
-  * High-performance liquid chromatography (HPLC)
-  * In vitro experiments
-  * Inoculation
-  * PCR
-  * Pipetting
-  * Practicing sterile techniques
-  * Preparing media
-  * Preservation of cell lines
-  * Replica plating
-  * Sterilizing
-  * Weighing
+* Software:
+  Windows, MAC OS, Linux, Microsoft Office, LaTeX, SOLIDWORKS, MySQL, MongoDB, Git, ImageJ, Cello, Jira, Benchling, Scientific Workplace, wxMaxima, SciLab, GNU Octave, Jupyter Notebooks, Spyder, Android studio, Visual Studio, MPLAB, Eureqa, Simulink, Proteus, and Multisim.
 
-* Laboratory equipment
-  * Autoclave
-  * Biosafety Cabinet
-  * Centrifuges
-  * Fume hood
-  * High Accuracy Digital Thermometer
-  * Incubator
-  * Lab Glassware
-  * Liquid handling platforms (Tecan: Evo and Fluent)
-  * Micropipette
-  * Microscope
-  * Multimeter
-  * Oscilloscope
-  * PCR machines
-  * pH meter
-  * Pipettes
-  * Plate reader spectrophotometer
-  * Precision balance
-  * Signal Generator
-  * Spectrophotometer
-  * Stirring hot plate
-  * Thermocycler
-  * Volumetric glassware
-  * Vortex mixer
+* Programming: 
+  Python, MATLAB, Verilog HDL, VHDL, R, SQL, Java, C++, C, Assembly Language, LabView, JavaScript, PHP, CSS, HTML, EVOware and FluentControl.
+
+* Laboratory techniques:
+  Bacterial culture, cell count, cell harvest, cleaning glassware, clonal isolation, column chromatography, cryopreserving, filtrating, gel electrophoresis, gel electrophoresis imaging, Glucose sensor assays, high-performance liquid chromatography (HPLC), in vitro experiments, inoculation, PCR, pipetting, practicing sterile techniques, preparing media, preservation of cell lines, replica plating, sterilizing, and weighing.
+
+* Laboratory Instruments:
+  Autoclave, biosafety cabinet, centrifuges, fume hood, high accuracy digital thermometer, incubator, lab glassware, liquid handling platforms (Tecan: Evo and Fluent), logic analyzer, micropipette, microscope, multimeter, oscilloscope, PCR machines, pH meter, pipettes, plate reader spectrophotometer, precision balance, signal generator, spectrophotometer, stirring hot plate, thermocycler, volumetric glassware, and vortex mixer.
 
   <!--
   Service and leadership
