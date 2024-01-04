@@ -8,4 +8,7 @@ date: 2018-02-08
 location: "Tijuana, MEX"
 ---
 
-Developed and explained course material such as limits and derivates problems, and practical cases.
+● Developed and explained course material to 40 students, such as limits, derivates problems, and practical cases.
+● Schedule and guided Q&A classes 2 times a week
+● Assisted in grading homework, tests, and quizzes
+
