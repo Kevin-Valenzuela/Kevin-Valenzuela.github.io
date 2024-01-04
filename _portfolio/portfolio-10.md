@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning with Tensorflow"
-excerpt: "IBM, Course certification in Deep Learning, 2024<br/><img src='../assets/images/Deep Learning with TensorFlow.jpeg' width='500' height='300'>"
+excerpt: "IBM, Course certification in Deep Learning, 2024<br/><img src='../assets/images/Deep Learning with TensorFlow.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
@@ -10,4 +10,4 @@ The methods learnt where:
 - Supervised: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Long Short-Term Memory Model (LSTM). 
 - Unsupervised: Restricted Boltzmann Machines (RBMs) and Autoencoders
 
-<a href="https://courses.cognitiveclass.ai/certificates/68e05ff5a23749d298f1acc3568f229f">![Deep Learning with TensorFlow certificate](/assets/images/Deep Learning with TensorFlow.jpeg)<a/>
+<a href="https://courses.cognitiveclass.ai/certificates/68e05ff5a23749d298f1acc3568f229f">![Deep Learning with TensorFlow certificate](/assets/images/Deep Learning with TensorFlow.jpg)<a/>
