@@ -58,11 +58,34 @@ Synergistic activities
 ======
 * June 2021: Security and custody
   * <em>Universidad Autónoma de Baja California</em>
-  * Event: Day of Early Detection of Cardiac Pathologies in Athletes
+  * Events: Day of Early Detection of Cardiac Pathologies in Athletes
   * Duties included:
     * Analyzed the statistics of young athletes who may suffer cardiac arrest.
     * Administered and conditioned checked medical equipment.
     * Educated young athletes on how to perform CPR.
+
+Teaching Experience
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Scholarships
+======
+* ENLACE summer research program Summer 2021
+* Jóvenes Escribiendo el Futuro July 2019 - June 2022
 
 Certifications
 ======
@@ -82,23 +105,7 @@ Certifications
 * University of San Diego
   * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-1/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
 
-Teaching Experience
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
