@@ -56,7 +56,13 @@ Research experience
 
 Synergistic activities
 ======
-* June 2021: Security and custody
+* September 2018: Scientific Workshop
+  * University of San Diego San Diego
+  * Workshop: Gel Electrophoresis/Crime Scene Investigation Workshop
+  * Duties included:
+    * Performed and analyzed PCR and gel electrophoresis from 10 human DNA samples to determine the aggressor of a crime scene
+
+* June 2018: Security and custody
   * <em>Universidad Autónoma de Baja California</em>
   * Events: Day of Early Detection of Cardiac Pathologies in Athletes
   * Duties included:
