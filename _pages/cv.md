@@ -102,19 +102,19 @@ Talks
 
 Skills
 ======
-* Technical:
+* <b>Technical</b>:
   Circuit design and analysis (electronic, analog, power, and digital), measurement of mechanical properties (tensile, compression, bending, hardness, creep, and impact test), thermal analysis of materials, signal analysis, and network design.
 
-* Software:
+* <b>Software</b>:
   Windows, MAC OS, Linux, Microsoft Office, LaTeX, SOLIDWORKS, MySQL, MongoDB, Git, ImageJ, Cello, Jira, Benchling, Scientific Workplace, wxMaxima, SciLab, GNU Octave, Jupyter Notebooks, Spyder, Android studio, Visual Studio, MPLAB, Eureqa, Simulink, Proteus, and Multisim.
 
-* Programming: 
+* <b>Programming</b>: 
   Python, MATLAB, Verilog HDL, VHDL, R, SQL, Java, C++, C, Assembly Language, LabView, JavaScript, PHP, CSS, HTML, EVOware and FluentControl.
 
-* Laboratory techniques:
+* <b>Laboratory techniques</b>:
   Bacterial culture, cell count, cell harvest, cleaning glassware, clonal isolation, column chromatography, cryopreserving, filtrating, gel electrophoresis, gel electrophoresis imaging, Glucose sensor assays, high-performance liquid chromatography (HPLC), in vitro experiments, inoculation, PCR, pipetting, practicing sterile techniques, preparing media, preservation of cell lines, replica plating, sterilizing, and weighing.
 
-* Laboratory Instruments:
+* <b>Laboratory Instruments</b>:
   Autoclave, biosafety cabinet, centrifuges, fume hood, high accuracy digital thermometer, incubator, lab glassware, liquid handling platforms (Tecan: Evo and Fluent), logic analyzer, micropipette, microscope, multimeter, oscilloscope, PCR machines, pH meter, pipettes, plate reader spectrophotometer, precision balance, signal generator, spectrophotometer, stirring hot plate, thermocycler, volumetric glassware, and vortex mixer.
 
   <!--
