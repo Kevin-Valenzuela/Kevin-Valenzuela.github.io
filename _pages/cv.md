@@ -18,13 +18,16 @@ Work experience
 * January 2023 - September 2023  (9 months): Research and Development Engineer
   * University of California San Diego, Systems Biology Research Group
   * Duties included:
-    *	Designed and conducted automated bacterial and viral adaptive evolution experiments to improve growth and tolerance in specific environments using Tecan liquid handing platforms (EVO and Fluent).
-    * Collaborated and develop with a team of R&D engineers a specialized liquid handling platform to perform automated adaptive evolution experiments using SOLIDWORKS, Python, and Polyscope.
-    * Programed and develop a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap, and SQL.
-    * Determined and solved biocontamination issues by performing sterility tests, PCR and gel electrophoresis runs, and changing protocols and FluentControl scripts used on experiments.
-    * Trained and supervised undergraduates to assist in experiments.
-    * Analyzed and documented resulting data from evolution experiments on the automated platform.
-    * Operated and maintained Tecan liquid handling platforms.
+    *	Designed and conducted 83 bacterial and viral adaptive evolution experiments to improve growth and tolerance in specific environments using Tecan liquid handling platforms (EVO and Fluent)
+    * Collaborated and developed with an international team of 7 R&D engineers a specialized liquid handling platform to perform automated adaptive evolution experiments using SOLIDWORKS, Python, and Polyscope
+    * Programed and develop a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap, and SQL
+    * Trained and supervised 4 undergraduates and 2 graduate students to assist in experiments and perform laboratory tasks
+    * Determined and solved biocontamination issues by performing sterility tests, ~300 PCR and gel electrophoresis runs, and changing SOP and FluentControl scripts used in experiments
+    * Cultured and isolated ~200 E. Coli and Bacillus strains for PCR analysis, experiments, and testing
+    * Analyzed and documented resulting data from 2 bacterial evolution experiments projects
+    * Operated and maintained 4 Tecan liquid handling platforms with 160 active experiments
+    * Rewrote and implemented an SOP for population and colony PCR, gel electrophoresis process, and data interpretation
+    * Scheduled meetings with clients and collaborators to discuss progress and end goals of bacterial evolution experiments
   * Supervisor: Dr. Adam Feist
 
 Research experience
@@ -32,26 +35,30 @@ Research experience
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>June 2021 - August 2021 (3 Months) : Research Assistant Intern<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
-    * Investigated, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit.
-    * Determined and documented risk factors that could potentially increase the death rate by COVID-19 in 2021.
-    * Presented research results of the COVID-19 spread in Mexico analyses.
-    * Taught and coordinated high school students, undergraduates and graduates to program using Python in data analysis.
+    * Analyzed, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit using statistical Python packages
+    * Determined and documented 4 risk factors (urban areas, obesity, age, and depression) that could potentially increase the death rate by COVID-19 in 2021
+    * Presented research results of the COVID-19 spread in Mexico analyses via an oral talk at the ENLACE 2021 closing ceremony and symposium
+    * Taught and led a team of 2 high school students, 1 undergraduate student, and 1 Ph.D. into programming using Python for biomedical data analysis
   * Supervisor: Dr. Peter Rose
 
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>January 2020 – June 2022 (2 years 3 months): Research Assistant<a/>
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included:
-    * Analyzed brain signals for the identification of evoked potentials using machine learning methods using Python.
-    *	Designed an algorithm in Python for the detection of motor-related events on brain signals for the development of prosthetics based on brain-computer interfaces.
-    *	Documented a protocol to follow for the detection of events in brain signals for prosthetic design.
-    *	Reviewed and tested previous works related to evoked potentials in brain signals.
+    * Analyzed 10878 brain signals for the identification of evoked potentials using machine learning methods using Python
+    * Designed an algorithm in Python for the detection of motor-related events on brain signals for the development of prosthetics based on brain-computer interfaces
+    * Documented an SOP to follow for the detection of events in brain signals for prosthetic design
+    * Organized and led meetings with a team of 3 biomedical engineers for discussions related to development of a brain-computer interface
+    * Coordinated and directed 2 biomedical engineering students in their research projects involving brain-computer interface module development
+    * Reviewed and tested previous works related to evoked potentials in brain signals
+    * Developed a senior project report based on data analysis results and presented findings to a panel of 5 professors and 40 undergraduates
   * Supervisor: M.S. Arturo Sotelo
 
 * August 2019 - December 2019 (5 months): Research Assistant
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included:
-    * Synthetized and tested the permeability of graphene membranes for water filter purposes.
-    * Determined bacteria types in contaminated and clean cell cultures.
+    * Cultured and determined type of bacteria in 20 graphene culture plates of E. Coli and other bacteria
+    * Examined and tested the permeability of 30 graphene membranes
+    * Designed and Fabricated 2 water filter prototypes using graphene membranes and SOLIDWORKS
   * Supervisor: M.Eng. Francisco García
 
 Synergistic activities
