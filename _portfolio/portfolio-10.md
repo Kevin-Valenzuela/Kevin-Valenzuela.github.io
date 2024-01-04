@@ -10,4 +10,4 @@ The methods learnt where:
 - Supervised: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Long Short-Term Memory Model (LSTM). 
 - Unsupervised: Restricted Boltzmann Machines (RBMs) and Autoencoders
 
-<a href="https://courses.cognitiveclass.ai/certificates/68e05ff5a23749d298f1acc3568f229f">![Deep Learning with TensorFlow certificate](/assets/images/Deep Learning with TensorFlow.jpg)<a/>
+<a href="https://courses.cognitiveclass.ai/certificates/68e05ff5a23749d298f1acc3568f229f">![Deep Learning with TensorFlow certificate](/assets/images/Deep Learning with TensorFlow.jpeg)<a/>
