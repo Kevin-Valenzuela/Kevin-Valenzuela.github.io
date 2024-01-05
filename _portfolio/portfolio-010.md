@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning with Tensorflow"
-excerpt: "IBM, Course certification in Deep Learning, 2024<br/><img src='../assets/images/Deep Learning with TensorFlow.jpg' width='500' height='300'>"
+excerpt: "IBM, Course certification in Deep Learning, 2024<br/><img src='../assets/images/Deep Learning with TensorFlow.jpeg' width='500' height='300'>"
 collection: portfolio
 ---
 
