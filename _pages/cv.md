@@ -32,7 +32,7 @@ Work experience
 
 Research experience
 ======
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-4/'>June 2021 - August 2021 (3 Months) : Research Assistant Intern<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-004/'>June 2021 - August 2021 (3 Months) : Research Assistant Intern<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
     * Analyzed, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit using statistical Python packages
@@ -41,7 +41,7 @@ Research experience
     * Taught and led a team of 2 high school students, 1 undergraduate student, and 1 Ph.D. into programming using Python for biomedical data analysis
   * Supervisor: Dr. Peter Rose
 
-* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-5/'>January 2020 – June 2022 (2 years 3 months): Research Assistant<a/>
+* <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-005/'>January 2020 – June 2022 (2 years 3 months): Research Assistant<a/>
   * <em>Instituto Tecnológico de Tijuana</em>
   * Duties included:
     * Analyzed 10878 brain signals for the identification of evoked potentials using machine learning methods using Python
@@ -73,9 +73,9 @@ Synergistic activities
   * <em>Universidad Autónoma de Baja California</em>
   * Events: Day of Early Detection of Cardiac Pathologies in Athletes
   * Duties included:
-    * Analyzed the statistics of young athletes who may suffer cardiac arrest.
-    * Administered and conditioned checked medical equipment.
-    * Educated young athletes on how to perform CPR.
+    * Analyzed the statistics of young athletes who may suffer cardiac arrest
+    * Administered and conditioned checked medical equipment
+    * Educated young athletes on how to perform CPR
 
 Teaching Experience
 ======
@@ -104,19 +104,19 @@ Certifications
 ======
 
 * University of California, San Diego
-  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-9/'>Biology Meets Programming: Bioinformatics for Beginners</a>
+  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-009/'>Biology Meets Programming: Bioinformatics for Beginners</a>
 
 * IBM
-  * January 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-10/'>Deep Learning with Tensorflow</a>
-  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-8/'>Machine Learning with Python</a>
-  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-7/'>Python for Data Analysis</a>
-  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-6/'>Python 101 for Data Science</a>
+  * January 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-010/'>Deep Learning with Tensorflow</a>
+  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-008/'>Machine Learning with Python</a>
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-007/'>Python for Data Analysis</a>
+  * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-006/'>Python 101 for Data Science</a>
 
 * Intellegy
-  * May 2021: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-2/'><em>Curso básico de SOLIDWORKS</em></a>
+  * May 2021: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-002/'><em>Curso básico de SOLIDWORKS</em></a>
 
 * University of San Diego
-  * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-1/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
+  * November 2018: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-001/'>Gel Electrophoresis/Crime Scene Investigation Workshop</a>
 
 
 
