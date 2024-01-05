@@ -7,8 +7,8 @@ venue: "<em>Instituto Tecnológico de Tijuana</em>, Department of Electronical a
 date: 2018-02-08
 location: "Tijuana, MEX"
 ---
-
-● Developed and explained course material to 40 students, such as limits, derivates problems, and practical cases.
-● Schedule and guided Q&A classes 2 times a week
-● Assisted in grading homework, tests, and quizzes
+Activities:
+* Developed and explained course material to 40 students, such as limits, derivates problems, and practical cases.
+* Schedule and guided Q&A classes 2 times a week
+* Assisted in grading homework, tests, and quizzes
 
