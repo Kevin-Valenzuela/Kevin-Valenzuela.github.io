@@ -137,6 +137,9 @@ Skills
 * <b>Laboratory Instruments</b>:
   Autoclave, biosafety cabinet, centrifuges, fume hood, high accuracy digital thermometer, incubator, lab glassware, liquid handling platforms (Tecan: Evo and Fluent), logic analyzer, micropipette, microscope, multimeter, oscilloscope, PCR machines, pH meter, pipettes, plate reader spectrophotometer, precision balance, signal generator, spectrophotometer, stirring hot plate, thermocycler, volumetric glassware, and vortex mixer.
 
+* <b>Tooling intruments and techniques</b>:
+  Abrasive Cut-Off saw, bench drill, caliper, micrometer, CNC machining, jigsaw, lathe, MIG welding, milling Machines, oxyacetylene gas welding, resin printing, sanding, shielded metal arc welding, and vise.
+
   <!--
   Service and leadership
   ======
