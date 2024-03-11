@@ -107,6 +107,7 @@ Certifications
   * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-009/'>Biology Meets Programming: Bioinformatics for Beginners</a>
 
 * IBM
+  * March 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-011/'>Data Visualization with Python</a>
   * January 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-010/'>Deep Learning with Tensorflow</a>
   * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-008/'>Machine Learning with Python</a>
   * September 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-007/'>Python for Data Analysis</a>
