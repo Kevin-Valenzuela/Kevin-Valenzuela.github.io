@@ -104,8 +104,8 @@ Certifications
 ======
 
 * University of California, San Diego
-  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-009/'>Genome Sequencing (Bioinformatics II)</a>
-  * May 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-012/'>Biology Meets Programming: Bioinformatics for Beginners</a>
+  * May 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-012/'>Genome Sequencing (Bioinformatics II)</a>
+  * October 2022: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-009/'>Biology Meets Programming: Bioinformatics for Beginners</a>
 
 * IBM
   * March 2024: <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-011/'>Data Visualization with Python</a>
