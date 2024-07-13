@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Bioengineering, UC Santa Barbara, 2028
 * Bachelor's degree in Biomedical Engineering with specialty in Applied Biomedical Technologies, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
 Work experience
@@ -128,10 +129,19 @@ Skills
   Circuit design and analysis (electronic, analog, power, and digital), measurement of mechanical properties (tensile, compression, bending, hardness, creep, and impact test), thermal analysis of materials, signal analysis, and network design.
 
 * <b>Software</b>:
-  Windows, MAC OS, Linux, Microsoft Office, LaTeX, SOLIDWORKS, MySQL, MongoDB, Git, ImageJ, Cello, Jira, Benchling, Scientific Workplace, wxMaxima, SciLab, GNU Octave, Jupyter Notebooks, Spyder, Android studio, Visual Studio, MPLAB, Eureqa, Simulink, Proteus, and Multisim.
+  Windows, MAC OS, Linux, Microsoft Office, LaTeX, SOLIDWORKS, MySQL, MongoDB, Git, GitHub, Bitbucket, Gitlab, Azure, ImageJ, Cello, Jira, Benchling, Scientific Workplace, wxMaxima, SciLab, GNU Octave, Jupyter Notebooks, Spyder, Android studio, Visual Studio, MPLAB, Eureqa, Simulink, Proteus, and Multisim.
 
 * <b>Programming</b>: 
   Python, MATLAB, Verilog HDL, VHDL, R, SQL, Java, C++, C, Assembly Language, LabView, JavaScript, PHP, CSS, HTML, EVOware and FluentControl.
+
+* <b>Data science techniques</b>:
+  Machine learning, data visualization, data mining, data processing, statistical analysis, computer vision (OpenCV and YOLOv4), and deep learning.
+
+* <b>Bioinformatic techniques</b>:
+  Sequence alignment and genome assembly
+
+* <b>Bioinformatic tools</b>:
+  BLAST, clustal omega (multiple alignment),  EMBOSS (local and global alignment), and Galaxy (SPAdes/genome assembly and QUAST)
 
 * <b>Laboratory techniques</b>:
   Bacterial culture, cell count, cell harvest, cleaning glassware, clonal isolation, column chromatography, cryopreserving, filtrating, gel electrophoresis, gel electrophoresis imaging, Glucose sensor assays, high-performance liquid chromatography (HPLC), in vitro experiments, inoculation, PCR, pipetting, practicing sterile techniques, preparing media, preservation of cell lines, replica plating, sterilizing, and weighing.
