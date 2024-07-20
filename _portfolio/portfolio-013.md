@@ -10,6 +10,7 @@ It also included the use of bioinformatic softwares to generate sequence alignme
 * <b>global alignments</b> (https://www.ebi.ac.uk/jdispatcher/psa/emboss_needle)
 * <b>local alignments</b> (https://www.ebi.ac.uk/jdispatcher/psa/emboss_water), 
 * <b>multiple alignments</b> (https://www.ebi.ac.uk/jdispatcher/msa/emboss_cons)
+
 And, also <b>sequence logos</b> (https://weblogo.threeplusone.com/create.cgi). All this with the end goal to compare different proteins to gramicidin synthetase to locate a A domain. Completed this course with honors.
 
 <a href="https://coursera.org/verify/KJAJD76NBADJ">![Comparing Genes, Proteins, and Genomes (Bioinformatics III) certificate](/assets/images/Coursera Comparing Genes, Proteins, and Genomes (Bioinformatics III).jpg)<a/>
