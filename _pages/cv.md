@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Bioengineering, UC Santa Barbara, 2028
+* Ph.D. in Bioengineering, UC Santa Barbara, Expected 2029
 * Bachelor's degree in Biomedical Engineering with specialty in Applied Biomedical Technologies, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
 Work experience
@@ -21,11 +21,11 @@ Work experience
   * Duties included:
     *	Designed and conducted 83 bacterial and viral adaptive evolution experiments to improve growth and tolerance in specific environments using Tecan liquid handling platforms (EVO and Fluent)
     * Collaborated and developed with an international team of 7 R&D engineers a specialized liquid handling platform to perform automated adaptive evolution experiments using SOLIDWORKS, Python, and Polyscope
-    * Programed and develop a real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap, and SQL
+    * Programmed and developed real-time experiment data visualization interface system in Linux using JavaScript, Bootstrap, and SQL
     * Trained and supervised 4 undergraduates and 2 graduate students to assist in experiments and perform laboratory tasks
     * Determined and solved biocontamination issues by performing sterility tests, ~300 PCR and gel electrophoresis runs, and changing SOP and FluentControl scripts used in experiments
     * Cultured and isolated ~200 E. Coli and Bacillus strains for PCR analysis, experiments, and testing
-    * Analyzed and documented resulting data from 2 bacterial evolution experiments projects
+    * Analyzed and documented resulting data from 2 bacterial evolution experiment projects
     * Operated and maintained 4 Tecan liquid handling platforms with 160 active experiments
     * Rewrote and implemented an SOP for population and colony PCR, gel electrophoresis process, and data interpretation
     * Scheduled meetings with clients and collaborators to discuss progress and end goals of bacterial evolution experiments
@@ -36,10 +36,10 @@ Research experience
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-004/'>June 2021 - August 2021 (3 Months) : Research Assistant Intern<a/>
   * University of California San Diego, San Diego Supercomputer Center
   * Duties included:
-    * Analyzed, in cooperation with a doctoral researcher, the COVID-19 spread in Mexico in the spatial, temporal, and phylogenetic ambit using statistical Python packages
-    * Determined and documented 4 risk factors (urban areas, obesity, age, and depression) that could potentially increase the death rate by COVID-19 in 2021
-    * Presented research results of the COVID-19 spread in Mexico analyses via an oral talk at the ENLACE 2021 closing ceremony and symposium
-    * Taught and led a team of 2 high school students, 1 undergraduate student, and 1 Ph.D. into programming using Python for biomedical data analysis
+    * Analyzed, in cooperation with a doctoral researcher, the spread of COVID-19 in Mexico in the spatial, temporal, and phylogenetic domains using statistical Python packages
+    * Determined and documented four risk factors (urban areas, obesity, age, and depression) that could potentially increase the death rate from COVID-19 in 2021
+    * Presented research results on the spread of COVID-19 in Mexico through an oral presentation at the ENLACE 2021 closing ceremony and symposium
+    * Taught a team of two high school students, one undergraduate student, and one PhD graduate programming using Python for biomedical data analysis
   * Supervisor: Dr. Peter Rose
 
 * <a href='https://kevin-valenzuela.github.io/portfolio/portfolio-005/'>January 2020 – June 2022 (2 years 3 months): Research Assistant<a/>
