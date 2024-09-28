@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Bioengineering, UC Santa Barbara, Expected 2029
+* Ph.D. in Biological Engineering, UC Santa Barbara, Expected 2029
 * Bachelor's degree in Biomedical Engineering with specialty in Applied Biomedical Technologies, <em>Instituto Tecnológico de Tijuana</em>, 2022
 
 Work experience
@@ -96,10 +96,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Scholarships
+Grants, Fellowships, & Scholarships
 ======
-* ENLACE summer research program Summer 2021
-* Jóvenes Escribiendo el Futuro July 2019 - June 2022
+* NRT: Data Driven Biology, Present
+* ENLACE summer research program, Summer 2021
+* Jóvenes Escribiendo el Futuro, July 2019 - June 2022
 
 Certifications
 ======
@@ -133,7 +134,7 @@ Skills
 * <b>Software</b>:
   Windows, MAC OS, Linux, Microsoft Office, LaTeX, SOLIDWORKS, MySQL, MongoDB, Git, GitHub, Bitbucket, Gitlab, Azure, ImageJ, Cello, Jira, Benchling, Scientific Workplace, wxMaxima, SciLab, GNU Octave, Jupyter Notebooks, Spyder, Android studio, Visual Studio, MPLAB, Eureqa, Simulink, Proteus, and Multisim.
 
-* <b>Programming</b>: 
+* <b>Programming</b>:
   Python, MATLAB, Verilog HDL, VHDL, R, SQL, Java, C++, C, Assembly Language, LabView, JavaScript, PHP, CSS, HTML, EVOware and FluentControl.
 
 * <b>Data science techniques</b>:
@@ -146,12 +147,12 @@ Skills
   BLAST, clustal omega (multiple alignment),  EMBOSS (local and global alignment), and Galaxy (SPAdes/genome assembly and QUAST)
 
 * <b>Laboratory techniques</b>:
-  Bacterial culture, cell count, cell harvest, cleaning glassware, clonal isolation, column chromatography, cryopreserving, filtrating, gel electrophoresis, gel electrophoresis imaging, Glucose sensor assays, high-performance liquid chromatography (HPLC), in vitro experiments, inoculation, PCR, pipetting, practicing sterile techniques, preparing media, preservation of cell lines, replica plating, sterilizing, and weighing.
+  Bacterial culture, cell count, cell harvest, cleaning glassware, clonal isolation, column chromatography, cryopreserving, differential centrifugation, filtrating, gel electrophoresis, gel electrophoresis imaging, Glucose sensor assays, high-performance liquid chromatography (HPLC), in vitro experiments, inoculation, PCR, pipetting, practicing sterile techniques, preparing media, preservation of cell lines, replica plating, sterilizing, and weighing.
 
 * <b>Laboratory Instruments</b>:
   Autoclave, biosafety cabinet, centrifuges, fume hood, high accuracy digital thermometer, incubator, lab glassware, liquid handling platforms (Tecan: Evo and Fluent), logic analyzer, micropipette, microscope, multimeter, oscilloscope, PCR machines, pH meter, pipettes, plate reader spectrophotometer, precision balance, signal generator, spectrophotometer, stirring hot plate, thermocycler, volumetric glassware, and vortex mixer.
 
-* <b>Tooling intruments and techniques</b>:
+* <b>Tooling instruments and techniques</b>:
   Abrasive Cut-Off saw, bench drill, caliper, micrometer, CNC machining, jigsaw, lathe, MIG welding, mill machining, oxyacetylene gas welding, resin printing, sanding, shielded metal arc welding, and vise.
 
   <!--
